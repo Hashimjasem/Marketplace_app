@@ -1,8 +1,7 @@
 function CreatePost() {
     return ( 
         <div>
-
-
+            Create Post
             {/* choose catagory */}
 
             {/* add images */}
